@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trucos para Percusionistas</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+    }
+    nav {
+      background-color: #444;
+      padding: 10px 0;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      padding: 10px 20px;
+      transition: background-color 0.3s ease;
+    }
+    nav a:hover {
+      background-color: #555;
+    }
+    section {
+      padding: 20px;
+      background-color: #fff;
+      margin: 20px;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    h2 {
+      color: #333;
+    }
+    p {
+      line-height: 1.6;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Trucos para Percusionistas</h1>
+  </header>
+  <nav>
+    <a href="#trick1">Truco 1</a>
+    <a href="#trick2">Truco 2</a>
+    <a href="#trick3">Truco 3</a>
+  </nav>
+  <section id="trick1">
+    <h2>Truco 1: Mantén un ritmo constante</h2>
+    <p>Para mantener un ritmo constante, practica con un metrónomo. Comienza lentamente y aumenta la velocidad gradualmente a medida que te sientas más cómodo.</p>
+  </section>
+  <section id="trick2">
+    <h2>Truco 2: Utiliza técnicas de respiración adecuadas</h2>
+    <p>Respira profundamente y relájate mientras tocas. La respiración adecuada puede ayudarte a mantener la calma y la concentración durante tus actuaciones.</p>
+  </section>
+  <section id="trick3">
+    <h2>Truco 3: Practica con diferentes tipos de percusión</h2>
+    <p>Explora diferentes instrumentos de percusión y técnicas de juego. Esto te ayudará a expandir tu habilidad y creatividad como percusionista.</p>
+  </section>
+</body>
+</html>
